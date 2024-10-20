@@ -26,7 +26,6 @@
     {"name":"obj_exp_coletavel","order":5,"path":"objects/obj_exp_coletavel/obj_exp_coletavel.yy",},
     {"name":"obj_inimigo1","order":2,"path":"objects/obj_inimigo1/obj_inimigo1.yy",},
     {"name":"obj_level","order":3,"path":"objects/obj_level/obj_level.yy",},
-    {"name":"obj_teste","order":6,"path":"objects/obj_teste/obj_teste.yy",},
     {"name":"spr_bg_agua","order":3,"path":"sprites/spr_bg_agua/spr_bg_agua.yy",},
     {"name":"spr_bg_arvores","order":2,"path":"sprites/spr_bg_arvores/spr_bg_arvores.yy",},
     {"name":"spr_bg_lua","order":1,"path":"sprites/spr_bg_lua/spr_bg_lua.yy",},
