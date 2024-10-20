@@ -45,6 +45,7 @@
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"globais","path":"scripts/globais/globais.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
