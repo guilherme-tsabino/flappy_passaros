@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 
 //Reinicia o jogo ao perder
-game_restart();
+//game_restart();
 
 //Define se a variável for false, para não poder perder
 //Várias vezes

@@ -16,7 +16,7 @@ if (image_index >= 1)
 }
 
 //Ao apertar espaço o player sobe
-vspeed = -4;
+vspeed = -6;
 
 //Aumenta a velocidade da animação
 image_speed = 1.6;

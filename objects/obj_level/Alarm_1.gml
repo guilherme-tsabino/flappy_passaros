@@ -11,4 +11,4 @@ var _meu_y = random_range(64, 160);
 instance_create_layer(704, _meu_y, "Inimigos", obj_inimigo1);
 
 //Reinicia o alarme, criando um loop
-alarm[1] = game_get_speed(gamespeed_fps) * random_range(5, 7);
+alarm[1] = game_get_speed(gamespeed_fps) * random_range(4, 6);
