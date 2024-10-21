@@ -5,3 +5,7 @@ if(global.transicao == true) //Se global.transicao for verdadeira
 	//Se cria a sq_transicao2
 	layer_sequence_create("Transicao", 0, 0, sq_transicao2);
 }
+
+audio_stop_all();
+
+desativa_efeitos();

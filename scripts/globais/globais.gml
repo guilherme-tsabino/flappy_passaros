@@ -1,3 +1,6 @@
+
+//show_debug_overlay(true);
+
 //Inicia a região
 #region variáveis globais
 
@@ -22,6 +25,12 @@ global.destino = rm_jogo;
 
 //Variável global da transição
 global.transicao = false;
+
+global.itens_bloqueados = [false, true, true];
+
+global.sprite_player = spr_passaro1;
+
+global.efeitos = true;
 
 #endregion //Encerra a região
 
@@ -91,5 +100,11 @@ function finaliza_transicao(){
 	global.transicao = false	
 }
 
+function desativa_efeitos(){
+	
+	layer_enable_fx("Folhas", global.efeitos);
+	layer_enable_fx("Agua", global.efeitos);
+	layer_enable_fx("Coletavel", global.efeitos);	
+}
 #endregion //Encerra a região de funções
 

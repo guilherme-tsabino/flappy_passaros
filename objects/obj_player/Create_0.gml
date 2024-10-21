@@ -8,3 +8,5 @@ gravity = 0.2;
 
 // Inicia o player sem animação, definindo a velocidade em zero
 image_speed = 0;
+
+sprite_index = global.sprite_player;

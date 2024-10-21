@@ -23,6 +23,7 @@ if (global.perdeu == false)
 			//Ganharemos 1 level
 			global.level++;	
 			
+			audio_play_sound(snd_level_up, 0, 0);
 			//A velocidade do fundo
 			//Aumenta conforme o level
 			layer_hspeed("bg_arvores", - global.level);
