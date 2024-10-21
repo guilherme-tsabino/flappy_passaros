@@ -11,4 +11,4 @@ var _meu_y = random_range(360, 435);
 instance_create_layer(704, _meu_y, "Arvores", obj_arvore);
 
 //Reinicia o alarme, criando um loop
-alarm[0] = game_get_speed(gamespeed_fps) * random_range(2, 4);
+alarm[0] = game_get_speed(gamespeed_fps) * random_range(2, 3);
